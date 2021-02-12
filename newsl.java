@@ -2,7 +2,9 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-public class newsl {
+public class newsl5 {
+	int a=0;
+	int b=0;
 	
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
